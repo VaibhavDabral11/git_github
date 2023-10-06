@@ -1,16 +1,17 @@
 # git_github
-
 1. version control
 2. repo
 3. branching
-4. fork
-5. Pull Request
-6. Issues
-7. clone
-8. status
-9. Github Pages
-10. Merge
-11. git merge Conflicts 
+4. commit
+5. fork
+6. Pull Request
+7. Issues
+8. clone
+9. status
+10. Github Pages
+11. Merge
+12. git merge Conflicts
+    
 
 
 
